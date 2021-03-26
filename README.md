@@ -1,2 +1,2 @@
-# PROJECT-20
-This is the project-20 named GCSO.
+# p5.play-boilerplate
+Boiler plate for p5.play
